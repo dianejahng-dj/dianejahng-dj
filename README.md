@@ -32,10 +32,13 @@ Currently based in Korea — open to remote roles and relocation opportunities i
 ## 🧭 Career Timeline
 
 ```
-2024–Present  │  Data Analytics Bootcamp (SQL, Python, ML)
-2021–2024     │  Independent Consultant — English & Korean Language Instruction
-2016–2020     │  Business Development & Marketing — Various roles, NZ & Korea
-2010–2014     │  Sales & Go-to-Market Strategy — Korea
+2025           │  Data Analytics Bootcamp — Programmers Dev-Course, Korea (SQL, Python, ML, Tableau)
+2024           │  Head of PR & Marketing — Comma Entertainment, Korea
+2023–2024      │  Partner Account Manager — Denave (Client: Microsoft), Korea
+2021–2022      │  Inside Opportunity Manager — Accenture (Client: Google & Microsoft), Korea & SEA
+2020–2021      │  Process Specialist — Cognizant (Client: Meta), APAC
+2016–2020      │  Independent Consultant · Graduate Certificate in Data Science — UT Austin (2021)
+2010–2016      │  Business Development & Market Research — Singapore & Korea
 ```
 
 ---
